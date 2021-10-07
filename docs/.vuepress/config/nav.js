@@ -13,7 +13,7 @@ module.exports = [
       {
         text: '学习笔记',
         items: [
-          { text: 'JavaScript', link: '/pages/00ed08/' },
+          { text: 'JavaScript', link: '/pages/c143a1/' },
           { text: 'Vue', link: '/pages/6e16ca/' },
           { text: 'React', link: '/pages/6e16ca/' },
           { text: 'CSS & CSS3', link: '/pages/feeb44/' },
@@ -31,6 +31,7 @@ module.exports = [
             link: '/pages/2f7a6a/',
           },
           { text: 'Linux', link: '/pages/c7e872/' },
+          { text: '浏览器原理', link: '/pages/5a08c4/' },
         ],
       },
     ],
@@ -56,7 +57,7 @@ module.exports = [
     ],
   },
   {
-    text: 'Node',
+    text: 'Node.js',
     link: '/pages/642842/',
   },
 
