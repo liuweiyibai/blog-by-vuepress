@@ -70,11 +70,11 @@ module.exports = {
         title: 'GitHub',
         link: 'https://github.com/liuweiyibai',
       },
-      // {
-      //   iconClass: 'icon-erji',
-      //   title: '听音乐',
-      //   link: 'https://music.163.com/#/playlist?id=755597173',
-      // },
+      {
+        iconClass: 'icon-erji',
+        title: '听音乐',
+        link: 'https://music.163.com/#/playlist?id=2798910598',
+      },
     ],
   },
   footer: {
