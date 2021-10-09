@@ -32,6 +32,7 @@ module.exports = [
           },
           { text: 'Linux', link: '/pages/c7e872/' },
           { text: '浏览器原理', link: '/pages/5a08c4/' },
+          { text: '算法与数据结构', link: '/pages/0b662e/' },
         ],
       },
     ],
